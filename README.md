@@ -1,5 +1,5 @@
-2d-Level-Editor
 Author: James Bergeron
+2d-Level-Editor
 ===============
 
 About/Features:
